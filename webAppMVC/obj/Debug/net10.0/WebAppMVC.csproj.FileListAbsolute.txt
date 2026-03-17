@@ -95,3 +95,4 @@ D:\Cursos\Git\proyecto\webAppMVC\obj\Debug\net10.0\compressed\tx99hrp9su-{0}-87f
 D:\Cursos\Git\proyecto\webAppMVC\obj\Debug\net10.0\compressed\6oveyjjem8-{0}-mlv21k5csn-mlv21k5csn.gz
 D:\Cursos\Git\proyecto\webAppMVC\obj\Debug\net10.0\compressed\gwfh5ranh9-{0}-maz84n1p9a-maz84n1p9a.gz
 D:\Cursos\Git\proyecto\webAppMVC\obj\Debug\net10.0\compressed\m2pxi3fsee-{0}-maz84n1p9a-maz84n1p9a.gz
+D:\Cursos\Git\proyecto\webAppMVC\obj\Debug\net10.0\webAppMVC.sourcelink.json

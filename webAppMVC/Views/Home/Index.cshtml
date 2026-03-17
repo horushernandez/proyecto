@@ -1,8 +1,104 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Inicio";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<style>
+    body {
+        background: linear-gradient(135deg, #0f172a, #1e293b);
+        color: #e2e8f0;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .hero {
+        height: 90vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .hero h1 {
+        font-size: 3rem;
+        font-weight: 700;
+        margin-bottom: 15px;
+    }
+
+    .hero p {
+        font-size: 1.2rem;
+        color: #94a3b8;
+        margin-bottom: 30px;
+    }
+
+    .btn-custom {
+        padding: 12px 25px;
+        border-radius: 30px;
+        background: #38bdf8;
+        color: #5575aa;
+        font-weight: 600;
+        text-decoration: none;
+        transition: 0.3s;
+    }
+
+    .btn-custom:hover {
+        background: #0ea5e9;
+        color: white;
+    }
+
+    .features {
+        padding: 60px 0;
+    }
+
+    .card {
+        background: #5575aa;
+        border: none;
+        border-radius: 15px;
+        padding: 25px;
+        transition: 0.3s;
+    }
+
+    .card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+    }
+
+    .footer {
+        text-align: center;
+        padding: 20px;
+        color: #64748b;
+        font-size: 0.9rem;
+    }
+</style>
+
+<div class="hero">
+    <div>
+        <h1>👾 Proyecto final del curso de GitHub 👾</h1>
+        <p>👽 Este curso fue dirigido por Jimmy Javier 👽</p>
+    </div>
+</div>
+
+<div class="container features">
+    <div class="row text-center">
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <h4>Control total sobre los repositorios 😏</h4>
+                <p>En este curso aprendi a ser mas perron en Git y GitHub</p>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <h4>Aplicación de archivos yml 😎</h4>
+                <p>Para verificar que el proyecto cuando sea cargado en GitHub se crean archivos yml que se encargaran de revisar que todos este bien para no subir cochinadas</p>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <h4>Despliegue en Azure 😵‍💫</h4>
+                <p>Este proyecto esta desplegado en Azure en un Ubuntu</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="footer">
+    © @DateTime.Now.Year - Practica de GitHub 
 </div>
