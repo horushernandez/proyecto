@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/webAppMVC/">
+    <Project Path="webAppMVC/WebAppMVC.csproj" />
+  </Folder>
+</Solution>
