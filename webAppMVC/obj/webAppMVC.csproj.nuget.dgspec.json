@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursos\\Git\\proyecto\\webAppMVC\\webAppMVC.csproj": {}
+    "D:\\Cursos\\Git\\proyecto\\webAppMVC\\WebAppMVC.csproj": {}
   },
   "projects": {
-    "D:\\Cursos\\Git\\proyecto\\webAppMVC\\webAppMVC.csproj": {
+    "D:\\Cursos\\Git\\proyecto\\webAppMVC\\WebAppMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\Git\\proyecto\\webAppMVC\\webAppMVC.csproj",
-        "projectName": "webAppMVC",
-        "projectPath": "D:\\Cursos\\Git\\proyecto\\webAppMVC\\webAppMVC.csproj",
+        "projectUniqueName": "D:\\Cursos\\Git\\proyecto\\webAppMVC\\WebAppMVC.csproj",
+        "projectName": "WebAppMVC",
+        "projectPath": "D:\\Cursos\\Git\\proyecto\\webAppMVC\\WebAppMVC.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "D:\\Cursos\\Git\\proyecto\\webAppMVC\\obj\\",
         "projectStyle": "PackageReference",
